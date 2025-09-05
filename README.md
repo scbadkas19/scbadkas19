@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=SaurabhBadkas&color=blue" alt="profile views"/>
 <!--
 **scbadkas19/scbadkas19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
