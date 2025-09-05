@@ -18,7 +18,10 @@
 - 💬 Ask me about **Python, Java, Spring, Django, ReactJS, Microsoft Office 365, REST APIs, MySQL, OracleDB, Postman, SOAP UI, SQL Developer**
 
 - 📫 How to reach me **scbadkas@terpmail.umd.edu**
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
