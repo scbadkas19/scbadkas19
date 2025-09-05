@@ -57,21 +57,21 @@
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=scbadkas19&show_icons=true&locale=en&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=scbadkas19&show_icons=true&locale=en&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scbadkas19&show_icons=true&locale=en&layout=compact" width="320" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scbadkas19&show_icons=true&locale=en&layout=compact" height="160" alt="Top Languages"/>
   </picture>
 
   <!-- GitHub Stats -->
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=scbadkas19&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api?username=scbadkas19&include_all_commits=true&count_private=true&show_icons=true&locale=en&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=scbadkas19&include_all_commits=true&count_private=true&show_icons=true&locale=en" width="320" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=scbadkas19&include_all_commits=true&count_private=true&show_icons=true&locale=en" height="160" alt="GitHub Stats"/>
   </picture>
 
   <!-- GitHub Streak -->
   <picture>
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=scbadkas19&theme=dark" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=scbadkas19&theme=default" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=scbadkas19" width="320" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=scbadkas19" height="160" alt="GitHub Streak"/>
   </picture>
 
 </p>
