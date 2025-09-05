@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Python with GenAI and Open Source**
 
-- 🌱 I’m currently learning **Software Design Patterns, System Design, DSA**
+- 🌱 I’m currently learning **ETL/ELT Pipelines, Data Architecture, Visualizations, Software Design Patterns, DSA**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [https://scbadkas19.github.io/](https://scbadkas19.github.io/)
 
-- 💬 Ask me about **Python, Java, Spring, Django, ReactJS, Microsoft Office 365, REST APIs, MySQL, OracleDB, Postman, SOAP UI, SQL Developer**
+- 💬 Ask me about **Python, SQL, Java, Data Engineering (Airflow, Kafka, AWS Glue), Databases (MySQL, Oracle, PostgreSQL), Data Visualization (Tableau, Power BI), APIs (REST, Postman), Cloud (AWS, Azure), Git, Linux, and Software Design Patterns**
 
 - 📫 How to reach me **scbadkas@terpmail.umd.edu**
 
