@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00D1FF&size=25&center=true&vCenter=true&width=650&height=60&lines=Passionate+Data+Professional;MS+Business+Analytics+%7C+UMD+College+Park;Self-taught+Software+Developer;Solving+problems+through+code;Always+learning+new+technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00D1FF&size=25&center=true&vCenter=true&width=650&height=60&lines=Passionate+Data+Professional;MS+Business+Analytics+%7C+University+of+Maryland+College+Park;Self-taught+Software+Developer;Solving+problems+through+code;Always+learning+new+technologies">
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working on **Python with GenAI and Open Source**
-- 🌱 Learning **Software Design Patterns**, **System Design**, **DSA**, and **Data Engineering**
+- 🌱 Learning **Software Design Patterns**, **System Design**, **DSA**, **Data Engineering**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 👨‍💻 Portfolio: **[scbadkas19.github.io](https://scbadkas19.github.io/)**
 - 💬 Ask me about **Python, SQL, Java, Data Engineering (Airflow, Kafka, AWS Glue), Databases (MySQL, Oracle, PostgreSQL), Data Viz (Tableau, Power BI), REST APIs, Cloud (AWS, Azure), Git, Linux**
