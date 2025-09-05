@@ -6,12 +6,12 @@
   </a>
 </p>
 
-<img align="right" alt="coding" width="360" src="assests/view.gif">
-
-
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=scbadkas19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
+<img align="right" alt="coding" width="360" src="assests/view.gif">
+
 
 - 🔭 I’m currently working on **Python with GenAI and Open Source**
 - 🌱 Learning **Software Design Patterns**, **System Design**, **DSA**, and **Data Engineering**
