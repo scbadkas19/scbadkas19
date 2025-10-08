@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on **Python with GenAI and Open Source**
 - 🌱 Learning **Software Design Patterns**, **System Design**, **DSA**, **Data Engineering**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 👨‍💻 Portfolio: **[scbadkas19.github.io](https://saurabhbadkas.info/)**
+- 👨‍💻 Portfolio: **[saurabhbadkas.info](https://saurabhbadkas.info/)**
 - 💬 Ask me about **Python, SQL, Java, Data Engineering (Airflow, Kafka, AWS Glue), Databases (MySQL, Oracle, PostgreSQL), Data Viz (Tableau, Power BI), REST APIs, Cloud (AWS, Azure), Git, Linux**
 - 📫 Reach me: **scbadkas@terpmail.umd.edu**
 
